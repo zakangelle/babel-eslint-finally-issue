@@ -1,9 +1,14 @@
 {
   "name": "eslint-issue",
   "version": "1.0.0",
+  "description": "Reproduces babel-eslint issue with the finally block",
   "main": "test.js",
   "scripts": {
     "lint": "eslint test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zakangelle/babel-eslint-finally-issue"
   },
   "dependencies": {
     "babel-eslint": "^1.0.12",
