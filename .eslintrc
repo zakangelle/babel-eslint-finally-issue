@@ -1,0 +1,8 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0,
+    "no-unused-vars": 0,
+    "no-empty": 1
+  }
+}

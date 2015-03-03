@@ -1,0 +1,12 @@
+{
+  "name": "eslint-issue",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "lint": "eslint test.js"
+  },
+  "dependencies": {
+    "babel-eslint": "^1.0.12",
+    "eslint": "^0.15.1"
+  }
+}
